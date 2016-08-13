@@ -14,3 +14,4 @@ dependencies:
     - scipy=0.18.0
     - seaborn
     - statsmodels
+    - toolz
