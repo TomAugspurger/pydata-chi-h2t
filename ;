@@ -2,6 +2,8 @@
 
 Materials for the pandas tutorial at PyData Chicago 2016
 
+Run through the setup below, and then start a notebook server
+
 # Notebooks
 
 1. [Basics](1-Basics.ipynb)
