@@ -4,16 +4,8 @@
 
 [![Join the chat at https://gitter.im/pydata-chi-h2t/Lobby](https://badges.gitter.im/pydata-chi-h2t/Lobby.svg)](https://gitter.im/pydata-chi-h2t/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Materials for the pandas tutorial at PyData Chicago 2016
-
-# Notebooks
-
-1. [Basics](1-Basics.ipynb)
-2. [Operations](2-Operations.ipynb)
-3. [Indexing](3-Indexing.ipynb)
-4. [Groupby and Reshaping](4-GroupbyAndReshaping.ipynb)
-5. [Tidy Data](5-TidyData.ipynb)
-6. [For Stats & ML](6-StatsAndML.ipynb)
+Materials for the pandas tutorial at PyData Chicago 2016.
+Please run either the conda or pip setup below before the session.
 
 # Setup
 
@@ -50,13 +42,13 @@ Hopefully you know what you're doing.
 I believe the current recommended way of creating virtualenvs is either
 
 ```
-$ pyvenv pyvenv /path/to/new/virtual/environment
+$ pyvenv /path/to/new/virtual/environment
 ```
 
 or
 
 ```
-$ python -m venv myenv
+$ python3 -m venv myenv
 ```
 
 Make sure that you're creating a python3 environment. The notebooks should
@@ -81,4 +73,13 @@ $ jupyter notebook
 ```
 
 and open the first notebook `1-Basics.ipynb`.
+
+# Notebooks
+
+1. [Basics](1-Basics.ipynb)
+2. [Operations](2-Operations.ipynb)
+3. [Indexing](3-Indexing.ipynb)
+4. [Groupby and Reshaping](4-GroupbyAndReshaping.ipynb)
+5. [Tidy Data](5-TidyData.ipynb)
+6. [For Stats & ML](6-StatsAndML.ipynb)
 
