@@ -1,6 +1,8 @@
 # Pandas .head() to .tail()
 
-[http://git.io/ph2t-chi](http://git.io/ph2t-chi)
+## [http://git.io/ph2t-chi](http://git.io/ph2t-chi)
+
+## `git clone https://github.com/TomAugspurger/pydata-chi-h2t`
 
 [![Join the chat at https://gitter.im/pydata-chi-h2t/Lobby](https://badges.gitter.im/pydata-chi-h2t/Lobby.svg)](https://gitter.im/pydata-chi-h2t/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
