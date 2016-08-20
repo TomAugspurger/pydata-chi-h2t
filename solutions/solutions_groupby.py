@@ -28,7 +28,7 @@ df.groupby(df.text.str.count('\w')).review_overall.mean().plot(style='k.')
 beer_kind.groupby(df.brewer_id).nunique()
 
 # brewer per kind
-df.brewer_id.groupby(beer_kind).nunique()
+df.brewer_id.groupby(beer_kind).nunique().sort_values(ascending=False)
 
 # distinct brewers per day
 x = df.set_index('time').brewer_id
