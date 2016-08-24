@@ -85,3 +85,10 @@ and open the first notebook `1-Basics.ipynb`.
 5. [Tidy Data](5-TidyData.ipynb)
 6. [For Stats & ML](6-StatsAndML.ipynb)
 
+# Further Resources
+
+- Wes McKinney's [*Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+- [The official docs](http://pandas.pydata.org/pandas-docs/stable/)
+- [Brandon Rhodes PyCon Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+- Joris Van den Bossche's [Introductory Tutorial](https://github.com/jorisvandenbossche/pandas-tutorial)
+- My [series of articles](https://github.com/tomaugspurger/modern-pandas)
