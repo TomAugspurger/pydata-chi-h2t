@@ -14,4 +14,5 @@ dependencies:
     - scipy=0.18.0
     - seaborn
     - statsmodels
-    - toolz
+    - toolz=0.8.0
+    - pandas-datareader=0.2.1
