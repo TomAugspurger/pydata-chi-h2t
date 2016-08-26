@@ -7,9 +7,16 @@
 [![Join the chat at https://gitter.im/pydata-chi-h2t/Lobby](https://badges.gitter.im/pydata-chi-h2t/Lobby.svg)](https://gitter.im/pydata-chi-h2t/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Materials for the pandas tutorial at PyData Chicago 2016.
-Please run either the conda or pip setup below before the session.
 
 # Setup
+
+Change directory into the tutorial repo:
+
+```
+$ cd pydata-chi-h2t
+```
+
+And proceed with the installation, depending on whether you're using conda or pip.
 
 ## Conda / Miniconda
 
