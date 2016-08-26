@@ -94,7 +94,7 @@ and open the first notebook `1-Basics.ipynb`.
 
 # Further Resources
 
-- Wes McKinney's [*Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+- Wes McKinney's [*Python for Data Analysis*](http://shop.oreilly.com/product/0636920023784.do)
 - [The official docs](http://pandas.pydata.org/pandas-docs/stable/)
 - [Brandon Rhodes PyCon Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 - Joris Van den Bossche's [Introductory Tutorial](https://github.com/jorisvandenbossche/pandas-tutorial)
