@@ -2,12 +2,6 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>
 
-## [http://git.io/ph2t-chi](http://git.io/ph2t-chi)
-
-## `git clone https://github.com/TomAugspurger/pydata-chi-h2t`
-
-[![Join the chat at https://gitter.im/pydata-chi-h2t/Lobby](https://badges.gitter.im/pydata-chi-h2t/Lobby.svg)](https://gitter.im/pydata-chi-h2t/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Materials for the pandas tutorial at PyData Chicago 2016.
 
 # Setup
